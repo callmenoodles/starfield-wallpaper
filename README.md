@@ -1,4 +1,4 @@
-# starfield-wallpaper
+# Starfield
 Customizable starfield for Wallpaper Engine
 
 ## Steam Workshop
