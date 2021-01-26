@@ -1,0 +1,38 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Starfield with customizable speed.",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			},
+			"speed" : 
+			{
+				"fraction" : true,
+				"index" : 0,
+				"max" : 50,
+				"min" : 0.5,
+				"order" : 100,
+				"precision" : 2,
+				"step" : 0.10000000000000001,
+				"text" : "speed",
+				"type" : "slider",
+				"value" : 2.5
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Relaxing" ],
+	"title" : "Starfield",
+	"type" : "web",
+	"version" : 1,
+	"workshopid" : "2374949819",
+	"workshopurl" : "steam://url/CommunityFilePage/2374949819"
+}
