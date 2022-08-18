@@ -2,7 +2,7 @@
 Customizable starfield for Wallpaper Engine.
 
 ## Steam Workshop
-https://steamcommunity.com/workshop/filedetails/?id=2374949819
+https://steamcommunity.com/workshop/filedetails/?id=2374949819 <br>
 Consider giving it a rating ;)
 
 ## Credits
